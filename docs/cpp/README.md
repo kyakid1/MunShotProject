@@ -6,4 +6,4 @@ Visual Studio 2019 [Download](https://visualstudio.microsoft.com/free-developer-
 
 Libraries: ASIO 1.12, Protobuf 3.17.3, krpc-cpp 0.48 (Can be found in the docs/cpp/libs directory)
 
-Link for building and installing - [kRPC C++ Client Install Guide for Visual Studio](https://www.youtube.com/watch?v=XE8GB1vOLyI)
+Video link for building and installing - [kRPC C++ Client Install Guide for Visual Studio](https://www.youtube.com/watch?v=XE8GB1vOLyI)
